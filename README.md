@@ -11,6 +11,7 @@
 [Station program comparison](https://github.com/mt-climate-office/mesonet-ln-programs/compare/aceabsar..acebozem?diff=split)
 
 **Question: How do we define a canonical program, and how do we handle versioning?**
+
 **Question: How do we track station configuration/settings changes, outside of the program?**
 
 ## [Loggernet Server](https://github.com/mt-climate-office/mesonet-ln-server)
