@@ -1,16 +1,16 @@
 # Why do we need version control for the Montana Mesonet?
 
 ## [Stations](https://github.com/mt-climate-office/mesonet-ln-programs)
-  - Track what code is deployed to what station
+  - **Track what code is deployed to what station**
     - Ensure consistency within our network
-  - Track when code changes on the stations
+  - **Track when code changes on the stations**
     - Avoid "rogue code" situations
-  - Easily integrate changes that are deployable across stations
+  - **Easily integrate changes that are deployable across stations**
     - Streamline program deployment
-  - Roll back detrimental changes to well-known version
-  - Systematic testing with bench unit(s)
+  - **Roll back detrimental changes to well-known version**
+  - **Systematic testing with bench unit(s)**
     - Avoid testing code in the "wild"
-  - Consistency, Reliability, Trust
+  - **Consistency, Reliability, Trust**
 
 [Station program comparison](https://github.com/mt-climate-office/mesonet-ln-programs/compare/aceabsar..acebozem?diff=split)
 
@@ -18,10 +18,11 @@
 **Question: How do we track station configuration/settings changes, outside of the program?**
 
 ## [Loggernet Server](https://github.com/mt-climate-office/mesonet-ln-server)
-  - Track changes (equipment additions)
-  - Ease troubleshooting
-  - Enable rapid deployment to new (or same) compute infrastracture, if necessary
-  - Control deployment of new LN versions
+  - **Track changes (equipment additions)**
+  - **Ease troubleshooting**
+  - **Enable rapid deployment to new (or same) compute infrastracture, if necessary**
+  - **Control deployment of new LN versions**
+  - **Orchestrate data collection and backup**
 
 
 # We don't talk about Docker... (today)
